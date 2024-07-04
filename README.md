@@ -14,10 +14,14 @@ We use a subpixel edge detection, either fast (with a linear interpolation betwe
 
 
 To install the program from source run the following command in the Drop-analysis folder. 
-> pip install .
+```
+pip install .
+```
 
 To run the program after installing run the following command in the terminal
-> drop_analysis
+```
+drop_analysis
+```
 
 ## Prerequisites
 If you don't use the precomiled releases nor `pip install` it you'll need:
